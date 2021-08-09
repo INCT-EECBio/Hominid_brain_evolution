@@ -9,6 +9,7 @@ This repository contains codes of the [paper](https://doi.org/10.1007/s11692-019
 
 Hominin's brain sizes (Endocranial Volume) and temporal fossil ranges were gathered from literature ([more details](https://doi.org/10.1007/s11692-019-09471-z)). Hominin's phylogenetic relationship was based on  Dembo *et al.* ([2015](https://doi.org/10.1098/rspb.2015.0943), [2016](https://doi.org/10.1016/j.jhevol.2016.04.008)).   
 
+
 ## How to cite
 
 > Diniz-Filho, J.A.F., Jardim, L., Mondanaro, A. et al. Multiple Components of Phylogenetic Non-stationarity in the Evolution of Brain Size in Fossil Hominins. Evol Biol 46, 47–59 (2019). [https://doi.org/10.1007/s11692-019-09471-z](https://doi.org/10.1007/s11692-019-09471-z).
@@ -38,6 +39,7 @@ Human_brain_evolution/
 │ └── Results.R
 └── README.md
 ```
+
 ### Glossary
 
 * hominid_phy.txt - Consensus Hominin phylogeny
